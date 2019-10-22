@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewPresidenHerlina</string>
+    <string name="pres_name">Nama Presiden</string>
+    <string name="dekripsi">Deskripsi</string>
+</resources>
